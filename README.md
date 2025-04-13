@@ -20,7 +20,7 @@ Este projeto é uma demonstração de um **secretário virtual para agendamento 
    ```bash
    git clone https://github.com/Thiago-Brito/streamlit-chatbot.git
    cd streamlit-chatbot
-git
+   
 2. Crie e ative um ambiente virtual:
     ```bash
     python -m venv ambiente
